@@ -176,62 +176,6 @@ body {
 
 
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Arial', sans-serif;
-}
-
-.banner {
-    position: relative;
-}
-
-.navbar {
-    background-color: #333;
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.logo {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-}
-
-.home {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-}
-
-.btn {
-    text-decoration: none;
-    padding: 10px;
-    background-color: #4CAF50;
-    color: #fff;
-    border-radius: 5px;
-}
-
-.content {
-    padding: 20px;
-}
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    font-weight: lighter;
-}
-
-
-
-
 
 
 
